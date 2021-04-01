@@ -1,16 +1,15 @@
-### Hi there 👋
+### console.log('Hi, I'm Angelica 👋')
 
-<!--
-**anggelicahr/anggelicahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** and I'm currently developing code in the cloud to improve the quality of life of millions of people 👩🏻‍💻🌍
 
-Here are some ideas to get you started:
+<**Code**> HTML | CSS | Javascript <**Code**/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<**Tools**> React | Responsive Design | UI/UX Design | Innovation <**Tools**/>
+
+<a href="https://github.com/anggelicahr/github-readme-stats">
+  <img width=320 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggelicahr&layout=compact" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggelicahr&show_icons=true&hide_border=true&theme=radical)
+
+
